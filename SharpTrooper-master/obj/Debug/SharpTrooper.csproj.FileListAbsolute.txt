@@ -1,0 +1,7 @@
+C:\Users\brouhara\Desktop\SharpTrooper-master\bin\Debug\SharpTrooper.dll
+C:\Users\brouhara\Desktop\SharpTrooper-master\bin\Debug\SharpTrooper.pdb
+C:\Users\brouhara\Desktop\SharpTrooper-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brouhara\Desktop\SharpTrooper-master\obj\Debug\SharpTrooper.csprojResolveAssemblyReference.cache
+C:\Users\brouhara\Desktop\SharpTrooper-master\obj\Debug\SharpTrooper.csproj.CoreCompileInputs.cache
+C:\Users\brouhara\Desktop\SharpTrooper-master\obj\Debug\SharpTrooper.dll
+C:\Users\brouhara\Desktop\SharpTrooper-master\obj\Debug\SharpTrooper.pdb
